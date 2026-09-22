@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->

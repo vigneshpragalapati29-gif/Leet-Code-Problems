@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1952-three-divisors](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1952-three-divisors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,4 +55,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1773-count-items-matching-a-rule) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->

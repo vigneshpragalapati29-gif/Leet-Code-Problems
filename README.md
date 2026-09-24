@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1389-create-target-array-in-the-given-order) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0263-ugly-number) |

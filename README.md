@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0066-plus-one) |
+| [0287-find-the-duplicate-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0645-set-mismatch) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -53,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1486-xor-operation-in-an-array) |
 ## Prefix Sum
@@ -107,5 +111,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0287-find-the-duplicate-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

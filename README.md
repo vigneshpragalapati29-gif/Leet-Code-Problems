@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 ## Bit Manipulation
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0412-fizz-buzz) |
 | [1773-count-items-matching-a-rule](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1773-count-items-matching-a-rule) |
 ## Enumeration
 |  |

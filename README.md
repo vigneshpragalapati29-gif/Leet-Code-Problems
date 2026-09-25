@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1952-three-divisors) |
+| [2235-add-two-integers](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
 | ------- |

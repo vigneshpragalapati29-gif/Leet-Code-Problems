@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0414-third-maximum-number) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1773-count-items-matching-a-rule) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |

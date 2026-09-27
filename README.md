@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1512-number-of-good-pairs) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0412-fizz-buzz) |
 | [1773-count-items-matching-a-rule](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1773-count-items-matching-a-rule) |
 ## Enumeration
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0766-toeplitz-matrix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

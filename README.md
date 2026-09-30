@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1773-count-items-matching-a-rule) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0766-toeplitz-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Queue
 |  |
 | ------- |

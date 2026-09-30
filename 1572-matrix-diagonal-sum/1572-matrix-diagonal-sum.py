@@ -2,12 +2,16 @@ class Solution:
     def diagonalSum(self, mat: list[list[int]]) -> int:
         su=0
         n=len(mat)
-        for i in range(len(mat)):
-            for j in range(len(mat[0])):
-                if i==j:
-                    su=su+mat[i][j]
-                elif i+j==n-1:
-                    su=su+mat[i][j]
+        j=n-1
+        for i in range(n):
+            su=su+mat[i][i]
+            su=su+mat[i][j]
+            j=j-1
+        if n%2!=0:
+            su=su-mat[n//2][n//2]
         return su
-        
+
+
+   
+    
         

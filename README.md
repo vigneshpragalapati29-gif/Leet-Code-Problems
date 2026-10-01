@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0819-most-common-word) |
+| [1051-height-checker](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0645-set-mismatch) |
+| [1051-height-checker](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0819-most-common-word](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0819-most-common-word) |
+| [1051-height-checker](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1748-sum-of-unique-elements) |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0506-relative-ranks) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->

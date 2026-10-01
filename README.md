@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0645-set-mismatch) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0645-set-mismatch) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->

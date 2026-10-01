@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/2413-smallest-even-multiple) |
 | [2544-alternating-digit-sum](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/2544-alternating-digit-sum) |
+| [2652-sum-multiples](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/2652-sum-multiples) |
 ## Two Pointers
 |  |
 | ------- |

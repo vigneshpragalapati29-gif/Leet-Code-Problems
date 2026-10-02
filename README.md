@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0819-most-common-word) |
 | [1051-height-checker](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1051-height-checker) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1732-find-the-highest-altitude) |
 ## String
 |  |

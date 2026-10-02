@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0509-fibonacci-number) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1486-xor-operation-in-an-array) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

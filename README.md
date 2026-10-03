@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0287-find-the-duplicate-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Pigeonhole Principle
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Queue

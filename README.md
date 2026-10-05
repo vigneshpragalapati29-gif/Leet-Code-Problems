@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0819-most-common-word) |
 | [1678-goal-parser-interpretation](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1773-count-items-matching-a-rule) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Enumeration
 |  |
 | ------- |

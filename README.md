@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0412-fizz-buzz) |
 | [0819-most-common-word](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0819-most-common-word) |
+| [1678-goal-parser-interpretation](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/1773-count-items-matching-a-rule) |
 ## Enumeration
 |  |

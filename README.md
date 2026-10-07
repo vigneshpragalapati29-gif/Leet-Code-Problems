@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0485-max-consecutive-ones) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0645-set-mismatch) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0506-relative-ranks) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0917-reverse-only-letters](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0917-reverse-only-letters) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vigneshpragalapati29-gif/Leet-Code-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Pigeonhole Principle
 |  |
